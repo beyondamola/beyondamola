@@ -3,13 +3,13 @@
 
 ## Projects
 
-### [mini-shell](PASTE_REPO_LINK_HERE)
+### [mini-shell](https://github.com/beyondamola/mini-shell)
 A Unix-like shell project built to practice command parsing, process creation, and execution in a Linux environment. This project helped me strengthen my understanding of systems programming concepts like `fork()`, `execvp()`, `waitpid()`, built-in commands, and terminal-based debugging.
 
-### [TinyRAG-Bench](PASTE_REPO_LINK_HERE)
+### [TinyRAG-Bench](https://github.com/beyondamola/TinyRAG-Bench)
 A lightweight benchmarking project for experimenting with retrieval-augmented generation systems. The goal is to test retrieval quality, response behavior, and evaluation workflows in a small, understandable setup.
 
-### [thought-chain](PASTE_REPO_LINK_HERE)
+### [thought-chain](https://github.com/beyondamola/thought-chain)
 An older experimental project focused on structuring reasoning workflows and exploring AI-assisted thought organization. This project reflects my early interest in prompt engineering, model interaction patterns, and building tools around AI reasoning.
 
 <!---
