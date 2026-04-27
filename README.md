@@ -1,6 +1,4 @@
 -  Hi, my name is Damola! (duh-moh-lah) ( @beyondamola )
--  I’m interested in learning more about the vast world of computer science.
--  I’m currently learning about computer systems, cybersecurity, and embedded software.
 -  INBOX ME ' adeajiboyebis@gmail.com '
 
 <!---
